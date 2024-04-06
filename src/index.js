@@ -44,11 +44,11 @@ const theme = {
       --theme-bg-selected: #858585;
       --theme-bg-selected-point: #03376e;
   
-      --theme-bg-statusbar-inv: #191a21;
-      --theme-bg-statusbar-inv-hover: #191a21;
+      --theme-bg-statusbar-inv: #1E1E1E;
+      --theme-bg-statusbar-inv-hover: #1E1E1E;
       --theme-bg-statusbar-inv-font: #222;
       --theme-bg-statusbar-inv-bg: #ccc;
-      --theme-bg-modalheader: #191a21;
+      --theme-bg-modalheader: #1E1E1E;
   
       --theme-bg-button-inv: #004488;
       --theme-bg-button-inv-2: #1a5794;

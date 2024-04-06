@@ -1,0 +1,26 @@
+{
+  "name": "dbgate-plugin-vscode-theme",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "VS Code inspired theme ![icon](https://avatars.githubusercontent.com/u/10557728?v=4)",
+  "author": "Bare7a",
+  "keywords": [
+    "dbgate",
+    "dbgateplugin"
+  ],
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "webpack --config webpack.config",
+    "plugin": "yarn build && yarn pack && dbgate-plugin dbgate-plugin-vscode-theme",
+    "plugout": "dbgate-plugout dbgate-plugin-vscode-theme",
+    "copydist": "yarn build && yarn pack && dbgate-copydist ../dist/dbgate-plugin-vscode-theme",
+    "prepublishOnly": "yarn build"
+  },
+  "devDependencies": {
+    "dbgate-plugin-tools": "^1.0.8",
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11"
+  }
+}

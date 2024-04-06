@@ -5,4 +5,4 @@
 
 VS Code inspired theme created by [Bare7a](https://github.com/bare7a/dbgate-plugin-vs-code-theme)
 
-![Preview VS Code Theme](https://github.com/Bare7a/dbgate-plugin-vs-code-theme/blob/main/preview.png)
+![Preview VS Code Theme](https://raw.githubusercontent.com/Bare7a/dbgate-plugin-vscode-theme/master/preview.png)

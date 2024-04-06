@@ -3,6 +3,6 @@
 
 # VS Code Theme
 
-VS Code inspired theme for DbGate created by [Bare7a](https://github.com/bare7a/dbgate-plugin-vs-code-theme)
+VS Code inspired theme for DbGate created by [Bare7a](https://github.com/Bare7a/dbgate-plugin-vscode-theme)
 
 ![Preview VS Code Theme](https://raw.githubusercontent.com/Bare7a/dbgate-plugin-vscode-theme/master/preview.png)

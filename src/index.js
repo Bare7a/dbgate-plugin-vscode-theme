@@ -130,51 +130,7 @@ const theme = {
   
     /*ace_editor*/
     .ace_editor{
-      font-size: 14px;
-      font-family: \"Fira code\", 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'source-code-pro', monospace;
       background-color: var(--theme-bg-0);
-
-      .ace_keyword {
-        color: #569CD6;
-      }
-
-      .ace_string {
-        color: #CE9178;
-      }
-
-      .ace_numeric {
-        color: #B5CEA8;
-      }
-
-      .ace_constant {
-        color: #B5CEA8;
-      }
-
-      .ace_numeric.ace_constant {
-        color: #B5CEA8;
-      }
-
-      .ace_paren {
-        color: #FFD700;
-      }
-
-      .ace_identifier {
-        color: #D4D4D4;
-      }
-
-      .ace_support {
-        color: #569CD6;
-      }
-      .ace_function {
-        color: #569CD6;
-      }
-      .ace_support.ace_function {
-        color: #569CD6;
-      }
-
-      .ace_comment {
-        color: #6A9955;
-      }
     }
     .ace_gutter-layer{
       background: var(--theme-bg-0);
